@@ -1,0 +1,3 @@
+[submodule "site/mooshi"]
+	path = site/mooshi
+	url = https://github.com/nice-shot/mooshi-dress-up.git
